@@ -1,6 +1,6 @@
-# Project : xx 
+# Project : flt-zapp-simulator
 ***************************************************************
-A Flutter project description <br><br>
+A  Zapp-Flutter About Simulator <br><br>
 
 Includes in this template:
 - Packages: intl, shared_preferences
@@ -10,8 +10,8 @@ Includes in this template:
 - Helpers: Responsive, Session, Utils, Extensions, Widgets, MaterialColor
 
 # Notes:
-- Started at: Week-xx of MM-YY
-- Flutter using version xx (Zapp.run)
+- Started at: Week-1 of Apr24
+- Flutter using version 3.7.3 (Zapp.run)
 - State Mgt: xx
 - Backend: xx
 - DB: xx
