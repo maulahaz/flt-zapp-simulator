@@ -17,6 +17,7 @@ const String BASE_URL = "http://10.0.2.2:8000/api/"; // Emulator-Laravel-Localho
 // const String BASE_URL = "https://reqres.in/api/"; // Free API: 1. 'reqres'
 // const String BASE_URL = 'http://192.168.0.181/trg-kamsya/'; // Emulator with Real Device or Website
 const String API_URL_1 = "https://fakestoreapi.com/"; // Free API: 2. 'fakestoreapi'
+const BASE_URL_NEWS = "https://newsapi.org/v2/";
 
 //--SIZES:: Padding:
 // --------------------------------------------------

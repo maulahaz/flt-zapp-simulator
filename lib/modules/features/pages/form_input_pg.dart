@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../widgets/x_widgets.dart';
+import '../../../widgets/x_widgets.dart';
 
 class FormInputPage extends StatefulWidget {
   const FormInputPage({super.key});

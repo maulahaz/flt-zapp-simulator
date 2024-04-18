@@ -2,6 +2,12 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "args",
+      "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/args-2.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "async",
       "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/async-2.10.0",
       "packageUri": "lib/",
@@ -38,6 +44,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "dartz",
+      "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/dartz-0.10.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "fake_async",
       "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/fake_async-1.3.1",
       "packageUri": "lib/",
@@ -66,6 +78,18 @@
       "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/flutter_lints-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_riverpod",
+      "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/flutter_riverpod-2.3.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_svg",
+      "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/flutter_svg-2.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "flutter_test",
@@ -134,6 +158,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "path_parsing",
+      "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/path_parsing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path_provider_linux",
       "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/path_provider_linux-2.2.1",
       "packageUri": "lib/",
@@ -152,6 +182,12 @@
       "languageVersion": "2.19"
     },
     {
+      "name": "petitparser",
+      "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/petitparser-5.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "platform",
       "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/platform-3.1.3",
       "packageUri": "lib/",
@@ -162,6 +198,12 @@
       "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
       "packageUri": "lib/",
       "languageVersion": "2.19"
+    },
+    {
+      "name": "riverpod",
+      "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/riverpod-2.3.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "shared_preferences",
@@ -224,6 +266,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "state_notifier",
+      "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/state_notifier-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "stream_channel",
       "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/stream_channel-2.1.1",
       "packageUri": "lib/",
@@ -254,6 +302,24 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "vector_graphics",
+      "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/vector_graphics-1.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_codec",
+      "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/vector_graphics_codec-1.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_compiler",
+      "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/vector_graphics_compiler-1.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -272,13 +338,19 @@
       "languageVersion": "2.19"
     },
     {
+      "name": "xml",
+      "rootUri": "file:///zapp/pub/.pub_cache/hosted/pub.dev/xml-6.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "flutter_app",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2024-04-05T13:46:04.886148Z",
+  "generated": "2024-04-17T06:11:59.586404Z",
   "generator": "pub",
   "generatorVersion": "2.19.2"
 }
